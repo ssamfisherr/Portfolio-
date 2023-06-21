@@ -242,10 +242,10 @@ footer a{
     display: block;
 }
 #skills div:nth-child(1) span{ width: 40%;}
-#skills div:nth-child(2) span{ width: 100%;}
-#skills div:nth-child(3) span{ width: 100%;}
+#skills div:nth-child(2) span{ width: 90%;}
+#skills div:nth-child(3) span{ width: 90%;}
 #skills div:nth-child(4) span{ width: 50%;}
-#skills div:nth-child(5) span{ width: 90%;}
+#skills div:nth-child(5) span{ width: 60%;}
 #skills div:nth-child(6) span{ width: 30%;}
 
 @media (max-width: 768px) {
